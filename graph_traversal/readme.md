@@ -16,3 +16,4 @@
 | [대전 도시철도 2호선](https://www.acmicpc.net/problem/32408) | [풀이](32408.md) |
 | [중량 제한](https://www.acmicpc.net/problem/1939) | [풀이](1939.md) |
 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | [풀이](18235.md) |
+| [산책 (small)](https://www.acmicpc.net/problem/22868) | [풀이](22868.md) |
